@@ -1,0 +1,7 @@
+build/libs/
+build/obj/
+*.o
+*.a
+scummvm.zip
+*_libretro.so
+*_libretro.info
